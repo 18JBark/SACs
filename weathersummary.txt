@@ -1,0 +1,28 @@
+The day was: Sun
+The date was: 5/03/2017
+The max temp was: 5/03/2017
+The min temp was: 13.6
+The day was: Mon
+The date was: 6/03/2017
+The max temp was: 6/03/2017
+The min temp was: 13.8
+The day was: Tue
+The date was: 7/03/2017
+The max temp was: 7/03/2017
+The min temp was: 14.7
+The day was: Wed
+The date was: 8/03/2017
+The max temp was: 9.4
+The min temp was: 14
+The day was: Thur
+The date was: 9/03/2017
+The max temp was: 9/03/2017
+The min temp was: 14.0
+The day was: Fri
+The date was: 10/03/2017
+The max temp was: 26
+The min temp was: 10/03/2017
+The day was: Sat
+The date was: 11/03/2017
+The max temp was: 30.1
+The min temp was: 11/03/2017
